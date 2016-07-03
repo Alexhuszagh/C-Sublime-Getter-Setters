@@ -1,0 +1,37 @@
+[
+    {
+        "caption": "Mutator Methods: Build Tags",
+        "command": "build_tags"
+    }
+//    {
+//        "caption": "Mutator Methods: Make Setter",
+//        "command": "create_setter"
+//    }
+//    {
+//        "caption": "CTags: Show Symbols (file)",
+//        "command": "show_symbols",
+//        "context": [
+//            {
+//                "key": "selector",
+//                "match_all": true,
+//                "operand": "source -source.css",
+//                "operator": "equal"
+//            }
+//        ]
+//    },
+//    {
+//        "caption": "CTags: Show Symbols (all)",
+//        "command": "show_symbols",
+//        "args": {
+//            "type": "multi"
+//        },
+//        "context": [
+//            {
+//                "key": "selector",
+//                "match_all": true,
+//                "operand": "source -source.css",
+//                "operator": "equal"
+//            }
+//        ]
+//    }
+]
